@@ -1,0 +1,35 @@
+h1{
+text-align: center;	
+color: white;
+text-shadow: 5px 5px #ff0000;
+font-family: Montserrat;
+font-size: 100px;
+}
+body {
+      background: url("http://dash.ga.co/assets/anna-bg.png");
+      background-size: cover;
+      background-position:center;
+}
+
+div{
+
+}
+#first{
+width:350px;
+height:auto;
+margin:50px auto 0;
+padding:50px;
+background-color: :-webkit-gradient(linear, 100% 66%, 1% 4%, from(#FF33FF), to(#FF922E))color:#333;
+border:10px solid #C2D6FF;
+border-radius:40px 0 40px 0
+
+}
+.actor{
+	color: red;
+}
+
+.span{
+
+	margin:  100px 100px 100px 100px;
+
+}
