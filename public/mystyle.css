@@ -14,14 +14,25 @@ body {
 div{
 
 }
+
+h2{
+	margin-top: 0;
+}
+#car{
+float:left;
+}
+
+
 #first{
-width:350px;
+width:60%;
 height:auto;
-margin:50px auto 0;
-padding:50px;
-background-color: :-webkit-gradient(linear, 100% 66%, 1% 4%, from(#FF33FF), to(#FF922E))color:#333;
+margin:50px auto 0 auto;
+padding:5%;
+background-color:rgba(255,255,255,.8);
+color:#333;
 border:10px solid #C2D6FF;
-border-radius:40px 0 40px 0
+border-radius:40px 0 40px 0;
+
 
 }
 .actor{
@@ -30,6 +41,19 @@ border-radius:40px 0 40px 0
 
 .span{
 
-	margin:  100px 100px 100px 100px;
+	margin:  ;
 
 }
+.option{
+color: red;
+}
+#cars{
+	display : block;
+}
+#rental{
+	display : block;
+}
+#date_debut {
+    background: #fff url(../images/picto-calendrier.gif) no-repeat right center;
+}
+input{ position:relative; display:block; width:auto; padding: 15px; margin: 15px;}
